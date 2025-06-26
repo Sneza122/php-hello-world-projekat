@@ -13,4 +13,12 @@
    php hello.php
 5. **Očekivani ispis na terminalu**:
    Hello World (again)
+
+## Pokretanje preko Docker-a
+
+1. Instaliraj Docker: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+2. U root folderu projekta, pokreni:
+
+```bash
+docker-compose up
    
