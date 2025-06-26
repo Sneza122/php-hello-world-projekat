@@ -10,7 +10,7 @@
 3. **Udjite u direktorijum projekta**:
    cd php-hello-world-projekatt
 4. **Pokrenite php skriptu**:
-   php hellp.php
+   php hello.php
 5. **Očekivani ispis na terminalu**:
-   Hello World
+   Hello World (again)
    
